@@ -1,0 +1,7 @@
+﻿  13.5类和对象 - 封装 - 封装案例2.cpp
+  Circle.cpp
+  Point.cpp
+  Point.h
+  正在生成代码...
+x64\Debug\Point.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  13类和对象.vcxproj -> E:\C++\13类和对象\x64\Debug\13类和对象.exe
