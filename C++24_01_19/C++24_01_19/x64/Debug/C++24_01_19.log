@@ -1,0 +1,4 @@
+﻿  main.c
+G:\C++\C++24_01_19\C++24_01_19\main.c(69): warning C4172: 返回局部变量或临时变量的地址: buf
+x64\Debug\main.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  C++24_01_19.vcxproj -> G:\C++\C++24_01_19\x64\Debug\C++24_01_19.exe
