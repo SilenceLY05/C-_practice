@@ -1,0 +1,3 @@
+﻿  seqlist.c
+G:\C++\C24+01_2\C24+01_2\seqlist.c(127): warning C4715: “SeqList_Insert”: 不是所有的控件路径都返回值
+  C24+01_2.vcxproj -> G:\C++\C24+01_2\x64\Debug\C24+01_2.exe
